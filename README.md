@@ -33,8 +33,12 @@
 #Скриншоты работы таблицы
 >Таблица users
 <img width="1900" height="1244" alt="image" src="https://github.com/user-attachments/assets/6b28eb17-3a82-4c1d-a207-53bd79326171" />
+
 >Таблица tapes
+
 <img width="1896" height="916" alt="image" src="https://github.com/user-attachments/assets/59dd1d96-c85d-49c3-bfcc-94fae8fc3b1e" />
+
 >Таблица rental
+
 <img width="1889" height="916" alt="image" src="https://github.com/user-attachments/assets/df4ef522-c887-4c56-8654-e3069a37b5d9" />
 
