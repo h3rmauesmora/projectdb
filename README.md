@@ -30,8 +30,11 @@
 | tape_id        | INTEGER | Идентификатор кассеты из tapes      |
 | borrowing_date | TEXT    | Дата взятия кассеты на прокат       |
 | return_date    | TEXT    | Дата возвращения кассеты            |
+
 #Скриншоты работы таблицы
+
 >Таблица users
+
 <img width="1900" height="1244" alt="image" src="https://github.com/user-attachments/assets/6b28eb17-3a82-4c1d-a207-53bd79326171" />
 
 >Таблица tapes
